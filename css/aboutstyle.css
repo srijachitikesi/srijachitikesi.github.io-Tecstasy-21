@@ -12,13 +12,12 @@ body h1{
     text-align: center;
     margin-top: -900px;
     position: absolute;
-    /* right: 490px; */
-	/* padding-left: 20px; */
+    right: 490px;
     border-bottom: 50px;
     /* color: #e91e63; */
     color:#f0f;
     font-family:Georgia, 'Times New Roman', Times, serif;
-	padding-left: 20px;
+	/* padding-left: 20px; */
 
 }
 body
